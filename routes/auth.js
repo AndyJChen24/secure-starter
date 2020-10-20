@@ -1,3 +1,4 @@
+// Originally based on public domain code by Josh Streger https://github.com/jdstregz/secure-starter
 const express = require('express');
 const passport = require('passport');
 const jwt = require('jsonwebtoken');
