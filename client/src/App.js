@@ -1,4 +1,4 @@
-
+// Originally based on public domain code by Josh Streger https://github.com/jdstregz/secure-starter
 import React, {useState, useEffect} from 'react';
 import axios from 'axios';
 import './App.css';

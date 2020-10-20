@@ -1,3 +1,4 @@
+// Originally based on public domain code by Josh Streger https://github.com/jdstregz/secure-starter
 // middlewares/passport.js
 const passport = require('passport');
 const Auth0Strategy = require('passport-auth0');
